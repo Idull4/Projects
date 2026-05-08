@@ -1,0 +1,12 @@
+ShipID,Name,Type,FlagCountry,Capacity,BuiltYear,Status,EngineType,InsuranceExpiry,LastMaintenanceDate,EngineerName,OperatingCompanyID,CompanyName
+1,Ship1,Cargo,El Salvador,47925,2001,Active,Diesel,2025-12-31,2024-01-01,Shannon Smith,9,Munoz-Roman
+2,Ship2,Cargo,Saint Helena,28493,2002,Active,Diesel,2025-12-31,2024-01-01,Stephen Potter,4,Guzman, Hoffman and Baldwin
+3,Ship3,Cargo,Seychelles,30439,2003,Active,Diesel,2025-12-31,2024-01-01,Ashley Graham,10,Herrera-Dudley
+4,Ship4,Cargo,Korea,19231,2004,Active,Diesel,2025-12-31,2024-01-01,Nathan Cortez,1,Rodriguez, Figueroa and Sanchez
+5,Ship5,Cargo,Macao,11463,2005,Active,Diesel,2025-12-31,2024-01-01,Katie Rodriguez,7,Peterson-Moore
+6,Ship6,Cargo,Nigeria,23298,2006,Active,Diesel,2025-12-31,2024-01-01,Mark Lynch,5,Barnes, Cole and Ramirez
+7,Ship7,Cargo,Cape Verde,11189,2007,Active,Diesel,2025-12-31,2024-01-01,Christopher Ashley,4,Guzman, Hoffman and Baldwin
+8,Ship8,Cargo,Uzbekistan,23059,2008,Active,Diesel,2025-12-31,2024-01-01,April Nguyen,2,Garcia, Yang and Gardner
+9,Ship9,Cargo,Andorra,7078,2009,Active,Diesel,2025-12-31,2024-01-01,Jack Galloway,7,Peterson-Moore
+10,Ship10,Cargo,Sri Lanka,7338,2010,Active,Diesel,2025-12-31,2024-01-01,Anthony Humphrey,6,Blake and Sons
+11,Ship11,Cargo,Turkey,1001,2002,Active,Diesel,2025-12-31,2024-01-02,Melis Özveri,2,Garcia, Yang and Gardner
